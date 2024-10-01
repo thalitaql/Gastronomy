@@ -5,5 +5,14 @@ background-image: -o-linear-gradient(90deg, #f78df0 0%, #fec7ff 100%);
 
 header{
     display: inline-flex;
-    jus
+    justify-content: center;
+}
+
+ul { 
+    display: flex;
+    list-style: none;
+    font-synthesis: 40px;
+    color: black;
+    gap: 28px;
+    text-transform: uppercase;
 }
