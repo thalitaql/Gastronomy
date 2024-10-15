@@ -16,3 +16,9 @@ ul {
     gap: 28px;
     text-transform: uppercase;
 }
+
+.nav-item:hover {
+cursor: pointer;   
+background-color: black; 
+color: white;
+}
